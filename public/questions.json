@@ -1,0 +1,205 @@
+{
+    "quiz": [
+      {
+        "question": "What is the capital of France?",
+        "options": ["Berlin", "Madrid", "Paris", "Rome"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": ["Harper Lee", "Mark Twain", "Ernest Hemingway", "F. Scott Fitzgerald"],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "What is the largest ocean on Earth?",
+        "options": ["Atlantic Ocean", "Indian Ocean", "Southern Ocean", "Pacific Ocean"],
+        "correct_answer_index": 3
+      },
+      {
+        "question": "Which element has the chemical symbol 'O'?",
+        "options": ["Oxygen", "Osmium", "Oganesson", "Olivine"],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "Who painted the Mona Lisa?",
+        "options": ["Vincent van Gogh", "Leonardo da Vinci", "Michelangelo", "Raphael"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Which country is known as the Land of the Rising Sun?",
+        "options": ["China", "Japan", "Thailand", "South Korea"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "What is the smallest prime number?",
+        "options": ["0", "1", "2", "3"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Which language is the most spoken worldwide?",
+        "options": ["Spanish", "English", "Mandarin", "Hindi"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "What is the hardest natural substance on Earth?",
+        "options": ["Gold", "Iron", "Diamond", "Quartz"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "In which year did the Titanic sink?",
+        "options": ["1905", "1912", "1918", "1921"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Who discovered penicillin?",
+        "options": ["Alexander Fleming", "Marie Curie", "Isaac Newton", "Albert Einstein"],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "Which planet is closest to the Sun?",
+        "options": ["Mercury", "Venus", "Earth", "Mars"],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "What is the currency of Japan?",
+        "options": ["Yuan", "Yen", "Won", "Rupee"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Who was the first President of the United States?",
+        "options": ["Thomas Jefferson", "Abraham Lincoln", "George Washington", "John Adams"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Which organ is responsible for pumping blood throughout the body?",
+        "options": ["Brain", "Lungs", "Heart", "Liver"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "What is the chemical formula for water?",
+        "options": ["H2O", "O2", "CO2", "NaCl"],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "Which country is the largest by land area?",
+        "options": ["Canada", "China", "United States", "Russia"],
+        "correct_answer_index": 3
+      },
+      {
+        "question": "In which year did World War II end?",
+        "options": ["1939", "1941", "1945", "1950"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Who is the author of the Harry Potter series?",
+        "options": ["J.R.R. Tolkien", "George R.R. Martin", "J.K. Rowling", "Suzanne Collins"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Which gas do plants absorb from the atmosphere?",
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Which country hosted the 2016 Summer Olympics?",
+        "options": ["China", "Brazil", "United Kingdom", "Japan"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "What is the capital of Australia?",
+        "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Who developed the theory of relativity?",
+        "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Niels Bohr"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "What is the tallest mountain in the world?",
+        "options": ["K2", "Kangchenjunga", "Lhotse", "Mount Everest"],
+        "correct_answer_index": 3
+      },
+      {
+        "question": "What is the freezing point of water?",
+        "options": ["0°C", "32°C", "100°C", "212°C"],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "Which is the longest river in the world?",
+        "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Which planet has the most moons?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_answer_index": 3
+      },
+      {
+        "question": "Who wrote 'Pride and Prejudice'?",
+        "options": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "Mary Shelley"],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "What is the smallest country in the world?",
+        "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Which animal is known as the King of the Jungle?",
+        "options": ["Tiger", "Elephant", "Lion", "Leopard"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "What is the capital of Canada?",
+        "options": ["Toronto", "Vancouver", "Ottawa", "Montreal"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Which element has the atomic number 1?",
+        "options": ["Helium", "Oxygen", "Hydrogen", "Nitrogen"],
+        "correct_answer_index": 2
+      },
+      {
+        "question": "Which continent is the largest by area?",
+        "options": ["Africa", "Asia", "North America", "Europe"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Who was the first man to walk on the moon?",
+        "options": ["Buzz Aldrin", "Neil Armstrong", "Michael Collins", "Yuri Gagarin"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Which famous ship sank in 1912?",
+        "options": ["Lusitania", "Titanic", "Britannic", "Carpathia"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Which ocean is the smallest?",
+        "options": ["Arctic Ocean", "Indian Ocean", "Atlantic Ocean", "Southern Ocean"],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "What is the main ingredient in guacamole?",
+        "options": ["Tomato", "Avocado", "Onion", "Garlic"],
+        "correct_answer_index": 1
+      },
+      {
+        "question": "Which organ is known as the 'brain' of the computer?",
+        "options": ["CPU", "RAM", "Hard Drive", "Motherboard"],
+        "correct_answer_index": 0
+      },
+      {
+        "question": "Which is the largest desert in the world?",
+        "options": ["Sahara", "Gobi", "Arabian", "Antarctic"],
+        "correct_answer_index": 3
+      }
+    ]
+  }
+  
